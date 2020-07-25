@@ -1,0 +1,12 @@
+{
+    "ModTitle": "ReasonableBlood",
+    "ModVersion": "1.00",
+    "ModAuthor": "Kirk.O",
+    "ContactInfo": "kirkoliveri@gmail.com",
+    "DFUnity_Version": "0.10.25",
+    "ModDescription": "Blood Effects Make More Sense To What Enemies It Applies To, Also Less Blood On Some Corpse Textures",
+    "GUID": "3a82e5ad-a3dd-41a4-95c5-e58b636a6f22",
+    "Files": [
+        "Assets/Game/Mods/ReasonableBlood.cs"
+    ]
+}
