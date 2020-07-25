@@ -5,7 +5,7 @@
 // Created On: 	    7/25/2020, 2:45 PM
 // Last Edit:		7/25/2020, 3:25 PM
 // Version:			1.00
-// Special Thanks:  
+// Special Thanks:  Jehuty
 // Modifier:
 
 using DaggerfallWorkshop.Game;
