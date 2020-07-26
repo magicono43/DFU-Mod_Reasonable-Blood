@@ -41,25 +41,25 @@ namespace ReasonableBlood
             Debug.Log("Begin mod init: ReasonableBlood");
 			
 			// Spriggan
-			EnemyBasics.Enemies[2].BloodIndex = 7;
+			EnemyBasics.Enemies[2].BloodIndex = 2;
 			
 			// Gargoyle
 			EnemyBasics.Enemies[22].BloodIndex = 2;
 			
 			// Fire Atronach
-			EnemyBasics.Enemies[35].BloodIndex = 7;
+			EnemyBasics.Enemies[35].BloodIndex = 2;
 			
 			// Iron Atronach
-			EnemyBasics.Enemies[36].BloodIndex = 7; // I'd like to add more hit effects, but for right now, don't know if that's easily possible, so this should work for the time.
+			EnemyBasics.Enemies[36].BloodIndex = 2; // I'd like to add more hit effects, but for right now, don't know if that's easily possible, so this should work for the time.
 			
 			// Ice Atronach
-			EnemyBasics.Enemies[38].BloodIndex = 7;
+			EnemyBasics.Enemies[38].BloodIndex = 2;
 			
 			// Frost Daedra
-			EnemyBasics.Enemies[25].BloodIndex = 7;
+			EnemyBasics.Enemies[25].BloodIndex = 2;
 			
 			// Fire Daedra
-			EnemyBasics.Enemies[26].BloodIndex = 7;
+			EnemyBasics.Enemies[26].BloodIndex = 2;
 
             Debug.Log("Finished mod init: ReasonableBlood");
 		}
