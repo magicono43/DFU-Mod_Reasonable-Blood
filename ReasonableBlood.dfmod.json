@@ -1,12 +1,34 @@
 {
     "ModTitle": "ReasonableBlood",
-    "ModVersion": "1.00",
+    "ModVersion": "1.05",
     "ModAuthor": "Kirk.O",
     "ContactInfo": "kirkoliveri@gmail.com",
-    "DFUnity_Version": "0.10.25",
+    "DFUnity_Version": "1.0.0",
     "ModDescription": "Blood Effects Make More Sense To What Enemies It Applies To, Also Less Blood On Some Corpse Textures",
     "GUID": "3a82e5ad-a3dd-41a4-95c5-e58b636a6f22",
     "Files": [
-        "Assets/Game/Mods/ReasonableBlood.cs"
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Scripts/ReasonableBlood.cs",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Compatibility/ReasonableBlood.mdb.csv",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Textures/400_3-0.png",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Textures/400_4-0.png",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Textures/405_2-0.png",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Textures/096_3-0.png",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Textures/405_3-0.png",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Textures/096_2-0.png",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Textures/096_1-0.png",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Textures/400_6-0.png",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Textures/405_1-0.png",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Textures/305_1-0.png",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Textures/400_2-0.png",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Textures/380_1-0.png",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Textures/306_4-0.png",
+        "Assets/Game/Mods/DFU-Mod_Reasonable-Blood/Textures/406_5-0.png"
+    ],
+    "Dependencies": [
+        {
+            "Name": "daggerfall enemy expansion",
+            "IsOptional": true,
+            "IsPeer": false
+        }
     ]
 }
